@@ -1,6 +1,6 @@
 def turn(board)
-    count = 0
-    
+    counter = 0
+    board.each
 end
 
 def current_player(board)
