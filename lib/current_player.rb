@@ -1,4 +1,5 @@
 def turn(board)
+    count = 0
     
 end
 
